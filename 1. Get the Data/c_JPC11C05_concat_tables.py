@@ -4,7 +4,7 @@ import re
 import glob
 import os
 
-main_dir = r"C:\Users\storres.759NYY1\Desktop\End to End Data Analysis Project\table"
+main_dir = r"C:\Users\User_Name\Desktop\End to End Data Analysis Project\table"
 os.chdir(main_dir)
 
 pattern = '*table.csv'
@@ -53,7 +53,7 @@ cmbs2 = pd.concat([obj for obj in df_bottom_half], axis=1, join='inner')
 cmbs2.to_csv('cmbs_table_odd.csv', index=False, encoding='ISO-8859-1')
 
 other = pd.concat([cmbs, cmbs2], axis=0, join='outer')
-headers = pd.read_csv(r"C:\Users\storres.759NYY1\Desktop\End to End Data Analysis Project\header\frame.csv", encoding='ISO-8859-1')
+headers = pd.read_csv(r"C:\Users\User_Name\Desktop\End to End Data Analysis Project\header\frame.csv", encoding='ISO-8859-1')
 
 headers.columns = [re.sub(r'_\d', ' ', col) for col in headers.columns]
 headers.columns = [re.sub(r'\s+', ' ', col) for col in headers.columns]
