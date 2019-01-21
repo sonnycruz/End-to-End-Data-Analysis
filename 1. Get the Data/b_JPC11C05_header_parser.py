@@ -7,7 +7,7 @@ import pandas as pd
 import glob
 import re
 
-main_dir = r"C:\Users\User_Name\Desktop\End to End Data Analysis Project\header"
+main_dir = r"C:\Users\Username\Desktop\End to End Data Analysis Project\header"
 os.chdir(main_dir)
 
 pattern = '*header.csv'
