@@ -8,7 +8,7 @@ main_dir = r"C:\Users\Username\Desktop\End to End Data Analysis Project\table"
 os.chdir(main_dir)
 
 pattern = '*table.csv'
-# is this necessary?
+# is thisss necessary?
 all_table_files = [os.path.basename(file) for file in glob.glob(os.path.join(main_dir, pattern))]
 
 df_top_half = []
