@@ -8,9 +8,9 @@ import re
 import os
 
 
-working_dir = r'C:\Users\Username\Desktop\End to End Data Analysis Project'
+working_dir = r'C:\Users\Username\Desktop\End-to-End-Data-Analysis\1. Get the Data'
 os.chdir(working_dir)
-filename = 'JPC11C05.html'
+filename = r"C:\Users\Username\Desktop\End-to-End-Data-Analysis\1. Get the Data\Raw Dataset\JPC11C05.html"
 
 with open(filename) as sec:
     soup = BeautifulSoup(sec, 'lxml')

@@ -1,0 +1,112 @@
+  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.104,JPMCB,234 North Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.105,JPMCB,1611 South Miami Boulevard,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.106,JPMCB,300 South Mock Road,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.107,JPMCB,624 West Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.108,JPMCB,1213 Greenland Drive,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.109,JPMCB,4720 Highway 49 South,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.110,JPMCB,4306 North Liberty Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.111,JPMCB,416 Highway 27 South,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.112,JPMCB,110 West 10th Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.113,JPMCB,7133 Forest Hill Avenue,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.114,JPMCB,4830 Jefferson Davis Highway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.115,JPMCB,5716 West Andrew Johnson Highway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.116,JPMCB,869 North Lee Highway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.117,JPMCB,7880 Broad Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.118,JPMCB,400 West Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.119,JPMCB,23364 Front Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.120,JPMCB,4394 South NC Highway 150,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+2.121,JPMCB,33287 Railroad Avenue,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+3,JPMCB,Asheville Mall,"6,771",0,0,"40,627","499,538",0,"653,820",  ,"6,771",0,"40,627","62,442",0,0
+4,JPMCB,Sun Development and Management Portfolio,"50,485",0,0,0,"213,802",0,"113,201",  ,3% of Gross Income from Operations,0,0,"79,999",0,0
+4.001,JPMCB,Embassy Suites Palmdale,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+4.002,JPMCB,Hilton Garden Inn Ridgefield Park,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+4.003,JPMCB,Homewood Suites Nashville,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+4.004,JPMCB,Hampton Inn & Suites South Lake Buena Vista,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+4.005,JPMCB,Candlewood Suites Hattiesburg,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+5,JPMCB,Google Kirkland Campus,"2,435",0,"672,322",0,"232,989","13,881",0,  ,"2,435",0,0,"46,598","4,627",0
+6,JPMCB,24 West 57th Street,"2,325",0,0,"20,833","248,377",0,0,  ,"2,325",0,"25,000","82,792",0,0
+7,JPMCB,Kite Retail Portfolio,"6,000","654,151",0,"187,992",0,0,"374,129",  ,"6,000",0,"22,500",0,0,0
+7.001,JPMCB,Boulevard Crossing,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+7.002,JPMCB,Hamilton Crossing Center,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+7.003,JPMCB,Naperville Marketplace,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+7.004,JPMCB,Publix at Acworth,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+8,JPMCB,Orland Park Place,0,0,0,0,0,0,"2,842",  ,0,0,0,0,0,0
+9,JPMCB,LaSalle Select Portfolio,"9,658","38,750",0,"41,670","511,122",0,"1,691,170",  ,"9,658",0,"41,670","49,692",0,0
+9.001,JPMCB,5707 Peachtree Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+9.002,JPMCB,3585 Engineering Drive,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+9.003,JPMCB,6455 East Johns Crossing,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+9.004,JPMCB,6625 The Corners Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+10,JPMCB,Denver West Village,"5,686",0,0,"500,000","376,057",0,0,  ,"5,686",0,0,"125,353",0,0
+11,JPMCB,Lehigh Valley Portfolio,"132,415",0,0,"1,058,086","459,580",0,0,  ,"Springing 5,520 if the balance<100,000",0,0,"59,171",0,0
+11.001,JPMCB,1640-1660 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+11.002,JPMCB,1455 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+11.003,JPMCB,1560 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+11.004,JPMCB,1550 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+11.005,JPMCB,1510 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+11.006,JPMCB,1530 Valley Center Parkway,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+12,JPMCB,Eddy Street Commons at Notre Dame,"2,900",0,0,"2,584,273",0,0,"654,137",  ,"2,900",0,"10,700",0,0,"18,750"
+13,JPMCB,SunTrust Bank Portfolio II,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+13.001,JPMCB,4240 West Lake Mary Boulevard,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.002,JPMCB,26627 US Highway 19 North,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.003,JPMCB,597 Solomons Island Road North,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.004,JPMCB,4425 Lafayette Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.005,JPMCB,1850 US Highway 1 South,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.006,JPMCB,2150 Cleveland Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.007,JPMCB,1605 21st Avenue South,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.008,JPMCB,111 Southwest 17th Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.009,JPMCB,7319 Spring Hill Drive,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.010,JPMCB,10000 Taft Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.011,JPMCB,6548 Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.012,JPMCB,3990 Southwest State Road 200,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.013,JPMCB,114 West Blue Ridge Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.014,JPMCB,240 West Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.015,JPMCB,892 Deltona Boulevard,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.016,JPMCB,5370 Peachtree Industrial Boulevard,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.017,JPMCB,7612 State Road 52,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.018,JPMCB,286 Hancock Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.019,JPMCB,100 Flagler Plaza Drive,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.020,JPMCB,7801 Pineville-Matthews Road,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.021,JPMCB,201 South Peterson Avenue,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.022,JPMCB,5705 High Point Road,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.023,JPMCB,804 North Madison Boulevard,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.024,JPMCB,5473 East Mountain Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.025,JPMCB,5 West Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.026,JPMCB,1645 Bradley Park Drive,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.027,JPMCB,201 South Main Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.028,JPMCB,3000 Virginia Avenue,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.029,JPMCB,88 Hillsboro Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+13.030,JPMCB,426 West Walnut Street,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+14,JPMCB,Sawyer Heights Village,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+15,JPMCB,University Town Center,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+16,JPMCB,Maitland 200,"3,095",0,0,"2,029,488","250,358",0,"710,367",  ,"3,095",0,"16,000","25,036",0,0
+17,JPMCB,Landing Apartments,"7,210","21,250",0,0,"106,644",0,0,  ,"7,210",0,0,"13,331",0,0
+18,JPMCB,Prattville Town Center,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+19,JPMCB,Northcrest Shopping Center,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+20,JPMCB,Verizon Alabama HQ,"3,170",0,0,0,"143,000","28,616",0,  ,"3,100",0,0,"11,000","1,908",0
+21,JPMCB,Brooks Corner,0,0,0,"12,500",0,0,0,  ,0,0,"12,500",0,0,0
+22,JPMCB,Bayport Commons,"1,625",0,0,"84,717",0,0,0,  ,"1,625",0,"6,072",0,0,0
+23,JPMCB,Inman Grove Shopping Center,"1,800,000","11,625","1,214,375",0,"146,333",0,"300,000",  ,"2,033",0,"4,200","48,778",0,0
+24,JPMCB,River North Portfolio,"1,150","20,000",0,"6,350","113,047","2,917",0,  ,"1,150",0,"6,350","22,609",583,0
+24.001,JPMCB,114. W. Illinois,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+24.002,JPMCB,500 N. Clark,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  
+25,JPMCB,Fairview Heights Plaza,"2,485","357,875",0,"6,600","217,254",0,"1,500,000",  ,"2,485",0,"6,600","24,139",0,0
+26,JPMCB,Heritage Commons III,"1,500","16,066",0,"10,250","249,314",0,0,  ,"1,500",0,"10,250","35,616",0,0
+27,JPMCB,Bird Creek Crossing,0,"14,383",0,0,0,0,0,  ,0,0,0,0,0,0
+28,JPMCB,Red Top Plaza,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+29,JPMCB,Shaw's Londonderry,"3,765",0,"125,000",0,"103,221",0,0,  ,"3,765",0,0,"25,786",0,0
+30,JPMCB,Kensington Place MHC,"2,035",0,0,0,"21,302",0,0,  ,"2,035",0,0,"21,302",0,0
+31,JPMCB,Franklin Centre,"2,855","28,206",0,"3,200","20,127",0,0,  ,"2,855",0,"3,200","10,063",0,0
+32,JPMCB,Village Ten Center,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+33,JPMCB,Caton Crossing,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+34,JPMCB,340 North Belt Place,"4,150","18,750",0,"14,600","89,157",0,0,  ,"4,150",0,"14,600","14,860",0,0
+35,JPMCB,Morningstar of Chapel Hill,658,0,0,0,"11,167",0,0,  ,658,0,0,"5,583",0,0
+36,JPMCB,The Cove at Southern,"3,730",0,0,0,"41,372","5,178",0,  ,"3,730",0,0,"5,172","1,294",0
+37,JPMCB,Lake Mary Plaza,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+38,JPMCB,Creek Crossing Shopping Center,"1,200","33,876",0,"1,525","100,317","4,659","41,889",  ,"1,200",0,"1,525","14,331",932,0
+39,JPMCB,Walgreens Plaza,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+40,JPMCB,Heritage Square,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+41,JPMCB,Towneplace Suites Charlotte,"5,350","20,853",0,0,"30,015",0,0,  ,"1/12 of 4% of Gross Income, Not < 5,350",0,0,"3,335",0,0
+42,JPMCB,Fairfield Inn & Suites East Ridge,"5,800",0,0,0,"31,773",0,0,  ,"1/12 of 4% of Gross Income, Not < 5,800",0,0,"4,539",0,0
+43,JPMCB,Academy Sports Weslaco,0,0,0,0,0,0,0,  ,0,0,0,0,0,0
+44,JPMCB,Morningstar of Virginia Beach,470,0,0,0,"16,672",0,0,  ,470,0,0,"3,334",0,0
