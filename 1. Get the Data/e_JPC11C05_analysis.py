@@ -6,7 +6,7 @@ import os
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
-path = r'C:\Users\storres.759NYY1\Desktop\End-to-End-Data-Analysis\1. Get the Data\table'
+path = r'C:\Users\Username\Desktop\End-to-End-Data-Analysis\1. Get the Data\table'
 file = 'CMBS New Final.csv'
 
 df = pd.read_csv(os.path.join(path,file), encoding='ISO-8859-1')

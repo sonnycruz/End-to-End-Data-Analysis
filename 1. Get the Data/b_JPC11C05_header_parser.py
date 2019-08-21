@@ -20,7 +20,7 @@ def is_word(value):
                 return False
 
 def load_headers(filename):
-    # Load CSV file count number of header rows.
+    # Load CSV file and count number of header rows.
     # Return Pandas DF with correct headers.
 
     f = open(filename)
